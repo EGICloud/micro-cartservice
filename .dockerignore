@@ -1,7 +1,7 @@
+test/
 **/*.sh
 **/*.bat
 **/bin/
 **/obj/
 **/out/
 Dockerfile*
-tests/
